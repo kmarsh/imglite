@@ -1,6 +1,6 @@
 [project]
 name = "imglite"
-version = "0.0.2"
+version = "0.0.3"
 description = "A SQLite-based muti-image storage specification and associated utilities."
 readme = "README.md"
 requires-python = ">=3.13"

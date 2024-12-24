@@ -1,3 +1,3 @@
 # imglite
 
-A SQLite-based image storage format and utilities.
+A SQLite-based muti-image storage specification and associated utilities.

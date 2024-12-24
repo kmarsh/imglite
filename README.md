@@ -1,3 +1,3 @@
 # imglite
 
-A SQLite-based muti-image storage specification and associated utilities.
+A SQLite-based multi-image storage specification and associated utilities.
